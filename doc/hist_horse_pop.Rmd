@@ -2,6 +2,8 @@
 title: "Historical horse population in Canada"
 bibliography: reference.bib
 output: 
+  html_document: 
+    toc: true
   github_document:
     toc: true
 ---
